@@ -1,0 +1,9 @@
+To make this project work
+
+1) Create database
+	To see database connection config look into "includes\config.php"
+
+2) Create table and data
+	To do it run script on MySQL database "task2.sql"
+
+3) Copy all files into PHP/Apache server folder
